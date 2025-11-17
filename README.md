@@ -1,44 +1,28 @@
 # EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+## EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+# DEVELOPED BY : Vinolia Alaina . R
+# REGISTER NUMBER : 212224240184
 
 ## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
-## Apparatus Required:
 
-Sl .no	Apparatus	Range	Type	Quantity
-1	Volt meter	(0-300)V	MC	1
-2	Ammeter	(0-2.5)A	MC	1
-3	Ammeter	(0-5)A	MC	1
-4	Rheostat		Wire wouned	1
-5	Rheostat		Wire wouned	1
-6	Connecting wires	-	-	As required
+## Load Circuit diagram:
 
-Fuse rating calculation for field and armature:
+<img width="1472" height="620" alt="image" src="https://github.com/user-attachments/assets/19d73b1d-7765-45ad-b6c0-cbeef45b07c8" />
 
-### No load test
 
-10 % of rated current (full load current)
+## Apparatus Required for Load test:
+<img width="1250" height="372" alt="image" src="https://github.com/user-attachments/assets/5d2b5e98-a9bd-4afd-8ad3-fe5931156e77" />
 
-### Load test
-
-125 % of rated current (full load current)
-
-### Precautions
+## Load Precautions:
 
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
 4.   The DPST switch must be kept open.Procedure for open circuit test
-   
-## Procedure
-1.   Connections are given as per the circuit diagram.
-2.   The motor is started with the help of THREE POINT starter.
-3.   Adjust the motor speed to rated speed by adjusting motor field rheostat when the generator is disconnected from the load by DPST switch 2.
-4.   By  varying  the  generator  field  rheostat  gradually,  the  open  circuit  voltage  [Eo]  and corresponding field current (If) are tabulated up to 125 % of rated voltage of generator.
-5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-### Procedure for Load test:
+## Procedure for Load test:
 
 1.   Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
@@ -48,25 +32,55 @@ Fuse rating calculation for field and armature:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-## Tabulation for Open Circuit Test and  Load Test and output:
+## Open circuit diagram:
+<img width="1491" height="656" alt="image" src="https://github.com/user-attachments/assets/bc068303-07b3-460a-89ca-6ed3f37ebbdc" />
 
-![WhatsApp Image 2025-09-16 at 23 09 25_69f2e11f](https://github.com/user-attachments/assets/3b562f0d-6483-4b67-99da-fce06482b127)
+## Apparatus Required for Open test:
 
-![WhatsApp Image 2025-09-16 at 23 09 25_98baae58](https://github.com/user-attachments/assets/544137e0-477e-4281-9eaf-f840fd474e5b)
+<img width="1268" height="307" alt="image" src="https://github.com/user-attachments/assets/023c9b21-58f1-4e0a-b8e0-0b2c2f55e5ba" />
 
-![WhatsApp Image 2025-09-16 at 23 09 25_dea8ae95](https://github.com/user-attachments/assets/bb37443b-09b3-4c87-b502-e83a06149a48)
+## Open test Precautions:   
 
-![WhatsApp Image 2025-09-16 at 23 09 26_3e645aaa](https://github.com/user-attachments/assets/c7b1b0c6-1333-4b6f-b575-4fa1aa1ee521)
-
-
-<img width="1075" height="624" alt="image" src="https://github.com/user-attachments/assets/b0346d73-44a3-4dba-9b1f-d70301cac158" />
-<img width="1067" height="313" alt="image" src="https://github.com/user-attachments/assets/96395d38-dc08-48f3-b571-a34078c545bc" />
-
-
-<img width="1370" height="626" alt="image" src="https://github.com/user-attachments/assets/4395226d-7c9d-434a-9352-8df720a22892" />
-<img width="1373" height="463" alt="image" src="https://github.com/user-attachments/assets/40dd5e1a-f4f8-4517-9fd3-01d59f710850" />
+1.	The field rheostat of motor should be in minimum resistance position at the time of starting to start the machine from minimum speed.
+2.	The field rheostat of generator should be in maximum resistance position at the time of starting and stopping the machine.
+3.	Residual voltage should be taken under no field current.
+4.	The characteristics should be drawn at constant rated speed by adjusting the drive unit or motor filed resistance as required.
 
 
- 
+## Procedure for Open Test:
+
+1.	Connections are made as per the circuit diagram.
+2.	Before starting the motor, ensure that both field rheostat and Pot meter of Drive Control Unit are in minimum position and the field rheostat of Generator should be in its maximum position. Similarly the load resistance connected to the Generator should be in its minimum position (No load).
+3.	Observing all the precautions, the motor is started using Drive Control Unit and the speed is increased until the rated armature voltage (of motor) is reached. At this instant the speed would be slightly lesser than the rated speed.
+4.	Now by adjusting the field rheostat, the motor is brought to the rated speed.
+5.	Now the field Rheostat of generator is varied and the field resistance is gradually decreased in steps thus increasing the field current. At each step the field current (If) and the corresponding induced EMF (Eg) are recorded in the tabular column. This procedure is continued until the generator voltage reaches its rated value.
+6.	After the experiment is completed the various rheostats are brought back to their original position in sequence and then main supply is switched off.
+
+## Tabulation for Load Test:
+   <img width="1034" height="207" alt="Screenshot 2025-09-27 105811" src="https://github.com/user-attachments/assets/71280733-c5a4-4171-87ac-a124375258e9" />
+
+
+
+## Tabulation for Open Circuit Test
+   <img width="1268" height="330" alt="Screenshot 2025-09-27 110549" src="https://github.com/user-attachments/assets/2883b31d-bda7-41f3-b6d7-c4301e5215cd" />
+
+## Model graph:
+
+# Load circuit
+
+<img width="651" height="281" alt="image" src="https://github.com/user-attachments/assets/ab82831b-6b20-43c8-a8a5-6e264fcbc093" />
+
+# Open circuit test
+
+<img width="692" height="305" alt="image" src="https://github.com/user-attachments/assets/3d8a6e35-3bee-49f1-b00c-4849b94e3b67" />
+
+## Calculation: 
+
+# Load Characteristics:
+  <img width="847" height="719" alt="image" src="https://github.com/user-attachments/assets/007ac817-5e43-4d06-84f4-e4a968f4cf2e" />
+
+# Open characteristics:
+<img width="733" height="515" alt="image" src="https://github.com/user-attachments/assets/68be7681-2b9f-4eac-81ce-4397e69e6c09" />
+
 ## Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
